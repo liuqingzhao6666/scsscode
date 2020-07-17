@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/*scss的高级语法*/
+/*1.if  else  条件语句*/
+/*lightness 获取颜色的亮度*/
+p {
+  /*color:lightness(#000);*/
+  border: 1px solid;
+  border: 2px dotted;
+  color: #f00;
+  background-color: #000; }
